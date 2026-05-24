@@ -73,29 +73,6 @@ Converts fuzzy outputs back into crisp control signals.
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/fuzzy-cart-pole-control.git
-cd fuzzy-cart-pole-control
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the simulation:
-
-```bash
-python main.py
-```
-
----
-
 ## Applications
 
 - Robotics
